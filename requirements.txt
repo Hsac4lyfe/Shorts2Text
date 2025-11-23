@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-celery
-redis
-yt-dlp
-python-multipart
-pydantic
-tenacity>=8.2.3
